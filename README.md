@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xReactive</h1>
-<h3 align="center">Discord Bot & Site Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-F06529?style=for-the-badge&logo=html5&logoColor=F06529&labelColor=000000">
