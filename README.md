@@ -17,5 +17,3 @@ if ( profile.username == 'x.reactive_' ) {
   console.log('Yup, that's me!');
 }
 ```
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/848526275059777566)](https://discord.com/users/848526275059777566)
