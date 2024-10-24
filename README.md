@@ -11,7 +11,8 @@
 const profile = {
   username: 'x.reactive_',
   age: 15,
-  instagram: '@x.reactive_'
+  instagram: '@x.reactive_',
+  website: 'xreactive.com.tr'
 }
 if ( profile.username == 'x.reactive_' ) {
   console.log('Yup, that's me!');
